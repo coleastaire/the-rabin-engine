@@ -1,0 +1,14 @@
+REGISTER_CONTROLFLOW(C_ParallelSequencer, "C_ParallelSequencer")
+REGISTER_CONTROLFLOW(C_RandomSelector, "C_RandomSelector")
+REGISTER_CONTROLFLOW(C_Selector, "C_Selector")
+REGISTER_CONTROLFLOW(C_Sequencer, "C_Sequencer")
+
+REGISTER_DECORATOR(D_Delay, "D_Delay")
+REGISTER_DECORATOR(D_InvertedRepeater, "D_InvertedRepeater")
+REGISTER_DECORATOR(D_RepeatFourTimes, "D_RepeatFourTimes")
+
+REGISTER_LEAF(L_CheckMouseClick, "L_CheckMouseClick")
+REGISTER_LEAF(L_Idle, "L_Idle")
+REGISTER_LEAF(L_MoveToFurthestAgent, "L_MoveToFurthestAgent")
+REGISTER_LEAF(L_MoveToMouseClick, "L_MoveToMouseClick")
+REGISTER_LEAF(L_MoveToRandomPosition, "L_MoveToRandomPosition")

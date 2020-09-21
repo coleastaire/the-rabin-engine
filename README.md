@@ -8,6 +8,8 @@ We are offering %5 extra credit for students who participate in the beta rollout
 2. Download/Clone this repository.
 3. Complete the project as stated in the project rubric.
 4. Submit AT LEAST 1 issue including feedback, bugs encountered, and a brief description of your experience in the Issues tab of this repository.
+  a. Screenshots and reproduction steps help our development a lot.
+  b. Not all bugs submitted here will be eligible for the additional exta credit. 
 
 Extra credit will only be given to those students who follow each of these steps.
 Extra credit given cannot push your grade past %100.

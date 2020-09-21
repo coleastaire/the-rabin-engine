@@ -1,6 +1,6 @@
 # The Rabin Engine
 
-## Alpha Testing in Progress
+## Beta Testing in Progress
 We are offering %5 extra credit for students who participate in the beta rollout this semester.
 
 ## How to Participate:

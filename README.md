@@ -12,6 +12,8 @@ We are offering %5 extra credit for students who participate in the beta rollout
 Extra credit will only be given to those students who follow each of these steps.
 Extra credit given cannot push your grade past %100. 
 
+If you have already started the project and created some behaior trees, you will find that this editor is compatible with your old tree files, and you should be able to upgrade smoothly. Please mention the experience in your issue report.
+
 ### DO NOT SHARE THIS REPO WITH STUDENTS OUTSIDE OF THE CLASS OR DIGIPEN
 
 For any questions or concerns, feel free to contact TA's Cole or Robert.

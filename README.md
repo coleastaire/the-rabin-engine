@@ -13,8 +13,6 @@ Extra credit will only be given to those students who follow each of these steps
 Extra credit given cannot push your grade past %100.
 All existing rubric requirements remain, including submission instructions.
 
-If you have already started the project and created some behavior trees with the old editor, you will find that this editor is compatible with your old tree files, and you should be able to upgrade smoothly. Please mention the experience in your issue report.
-
 ### DO NOT SHARE THIS REPO WITH STUDENTS OUTSIDE OF THE CLASS OR DIGIPEN
 
 For any questions or concerns, feel free to contact TA's Cole or Robert.

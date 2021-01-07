@@ -1,6 +1,6 @@
 # The Rabin Engine v2021.0
 
-## How to Participate:
+## Basic Info:
 1. Create a GitHub account using YOUR DIGIPEN EMAIL as the primary email address and YOUR FULL NAME or DIGIPEN USERNAME as the username. We must be able to tell who you are in the class simply by looking at the username and email of the github account.
 2. Download/Clone this repository. It is recommmended to CLONE the repo using a git client, because you may then diff againt master for any odd error you encounter. This is a good general practice.
 3. Complete the projects as stated in the project rubrics. You should only need to clone once for the entire semester.
